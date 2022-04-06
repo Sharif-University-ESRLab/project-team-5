@@ -1,0 +1,9 @@
+\contentsline {section}{فهرست مطالب}{2}{section*.1}%
+\contentsline {section}{\numberline {1}چکیده }{3}{section.1}%
+\contentsline {section}{\numberline {2} بیان مسأله}{3}{section.2}%
+\contentsline {section}{\numberline {3} بررسی منابع }{4}{section.3}%
+\contentsline {section}{\numberline {4}نتایج مورد انتظار}{4}{section.4}%
+\contentsline {section}{\numberline {5} میزان موفقیت }{5}{section.5}%
+\contentsline {section}{\numberline {6} جدول زمان‌بندی مراحل انجام تحقیق }{5}{section.6}%
+\contentsline {section}{\numberline {7}واژه‌نامه}{5}{section.7}%
+\contentsline {section}{مراجع}{6}{section*.2}%
