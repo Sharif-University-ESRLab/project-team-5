@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  11 MAY 2022 12:30
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  11 MAY 2022 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,6 +645,12 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
 
 File: figs/schematics.png Graphic file (type bmp)
 <figs/schematics.png>
+[2]
+File: figs/on.png Graphic file (type bmp)
+<figs/on.png>
+File: figs/off.png Graphic file (type bmp)
+<figs/off.png>
+ [3]
 (/usr/local/texlive/2020basic/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
@@ -654,28 +660,28 @@ File: lstlang2.sty 2020/03/24 1.8d listings language file
 (/usr/local/texlive/2020basic/texmf-dist/tex/latex/listings/lstlang3.sty
 File: lstlang3.sty 2020/03/24 1.8d listings language file
 )
-(./src/sensor-LED.ino [2])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
+(./src/sensor-LED.ino)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 14815 strings out of 480935
- 284990 string characters out of 5916714
- 789814 words of memory out of 5000000
- 32001 multiletter control sequences out of 15000+600000
+ 14828 strings out of 480935
+ 285177 string characters out of 5916714
+ 792819 words of memory out of 5000000
+ 32014 multiletter control sequences out of 15000+600000
  532898 words of font info for 50 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 52i,6n,97p,1236b,2200s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,5n,97p,1236b,1483s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reportWeek3.pdf (3 pages).
+Output written on reportWeek3.pdf (4 pages).
