@@ -19,7 +19,7 @@
 BH1750 lightMeter;
 const int lowestPin = 2;
 
-const int highestPin = 7;
+const int highestPin = 3;
 
 // RemoteXY configurate  
 #pragma pack(push, 1)
@@ -86,9 +86,6 @@ void loop()
 { 
   RemoteXY_Handler ();
   
-  
-  // TODO you loop code
-  // use the RemoteXY structure for data transfer
   // do not call delay()
 
   int sensitivity = (RemoteXY.sensitivity + 100) * 140 / 200 + 10;
@@ -121,9 +118,11 @@ void loop()
   Serial.print(" ");
   Serial.println(inv_lux);
   // iterate over the pins:
-  for (int thisPin = lowestPin; thisPin <= highestPin;
-    thisPin++) {
-    analogWrite(thisPin, brightness);
+  if (RemoteXY.branch == 1) {
+    analogWrite(lowestPin, brightness);
+  }
+  else if (RemoteXY.branch == 0) {
+    analogWrite(highestPin, brightness);
   }
   // delay(200); ?? 
 

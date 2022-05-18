@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  18 MAY 2022 16:03
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  18 MAY 2022 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -644,7 +644,7 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar(0)/m/n' instead on input line 60.
 
 
-Overfull \hbox (1.71484pt too wide) in paragraph at lines 71--73
+Overfull \hbox (1.71484pt too wide) in paragraph at lines 73--75
 [][]\TU/XBNiloofar(0)/m/n/12 تنظیم حداکثر و حداقل میزان روشنایی: کاربر می‌تواند
  با انتخاب عددی میان ۰ تا ۲۵۵(توسط[]
  []
@@ -746,30 +746,30 @@ Overfull \hbox (168.45451pt too wide) in paragraph at lines 49--50
  []
 
 [4]
-Overfull \hbox (43.6235pt too wide) in paragraph at lines 94--96
+Overfull \hbox (43.6235pt too wide) in paragraph at lines 91--93
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][] []
  []
 
 
-Overfull \hbox (30.4834pt too wide) in paragraph at lines 96--97
+Overfull \hbox (30.4834pt too wide) in paragraph at lines 93--94
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 108.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
  14760 strings out of 480935
