@@ -28,7 +28,11 @@ void loop() {
   Serial.print(" ");
   Serial.println(inv_lux);
   // iterate over the pins:
-  for (int thisPin = lowestPin; thisPin <= highestPin;
+  for (int thisPin = highestPin; thisPin <= highestPin;
+    thisPin++) {
+    analogWrite(thisPin, brightness);
+  }
+    for (int thisPin = lowestPin; thisPin <= highestPin;
     thisPin++) {
     analogWrite(thisPin, brightness);
   }
