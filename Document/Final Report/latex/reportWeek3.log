@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 10:47
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,8 +702,10 @@ File: figs/esp8266-esp-01s.jpeg Graphic file (type bmp)
 File: figs/ESP8266-Pinout.png Graphic file (type bmp)
 <figs/ESP8266-Pinout.png>
  [5]
-File: figs/BH1750FVI-pin-config.png Graphic file (type bmp)
-<figs/BH1750FVI-pin-config.png>
+File: figs/ESP-01-pin-configuration-The-RESET-and-VCC-pins-of-the-module-are-co
+nnected-to-the-33-V.png Graphic file (type bmp)
+<figs/ESP-01-pin-configuration-The-RESET-and-VCC-pins-of-the-module-are-connect
+ed-to-the-33-V.png>
 
 Overfull \hbox (1.71484pt too wide) in paragraph at lines 198--200
 [][]\TU/XBNiloofar(0)/m/n/12 تنظیم حداکثر و حداقل میزان روشنایی: کاربر می‌تواند
@@ -731,10 +733,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 14627 strings out of 480935
- 283026 string characters out of 5916714
+ 14633 strings out of 480935
+ 283609 string characters out of 5916714
  632854 words of memory out of 5000000
- 31810 multiletter control sequences out of 15000+600000
+ 31815 multiletter control sequences out of 15000+600000
  535658 words of font info for 62 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  52i,8n,74p,1236b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
