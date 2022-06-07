@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 13:59
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 14:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,7 +611,7 @@ LaTeX Warning: Label `fig:schema' multiply defined.
 
 LaTeX Warning: Label `fig:schema' multiply defined.
 
-(./hamidrezacode.aux))
+)
 \openout1 = `reportWeek3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -625,8 +625,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 4.
-
-(/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -1369,10 +1368,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
- 14874 strings out of 480935
- 287440 string characters out of 5916714
- 800670 words of memory out of 5000000
- 32019 multiletter control sequences out of 15000+600000
+ 14869 strings out of 480935
+ 287358 string characters out of 5916714
+ 800267 words of memory out of 5000000
+ 32017 multiletter control sequences out of 15000+600000
  535682 words of font info for 65 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  52i,10n,97p,1236b,2059s stack positions out of 5000i,500n,10000p,200000b,80000s
