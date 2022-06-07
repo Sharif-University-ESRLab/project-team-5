@@ -1,3 +1,6 @@
 
+# Unwanted latex files
+
 *.out
 *.log
+*.aux
