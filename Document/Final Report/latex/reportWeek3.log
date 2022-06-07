@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 13:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -611,7 +611,7 @@ LaTeX Warning: Label `fig:schema' multiply defined.
 
 LaTeX Warning: Label `fig:schema' multiply defined.
 
-)
+(./hamidrezacode.aux))
 \openout1 = `reportWeek3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -625,7 +625,8 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 4.
- (/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 34.
@@ -739,13 +740,623 @@ Overfull \hbox (1.71484pt too wide) in paragraph at lines 337--339
  با انتخاب عددی میان ۰ تا ۲۵۵(توسط[]
  []
 
-[13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
+(./hamidrezacode.tex
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(./src/remotexyStruct.ino [13]) (./src/branchConfigs.ino
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.20 Config branch_conf[
+                        branch_num];
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.20 Config branch_conf[branch_num]
+                                   ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.20 Config branch_conf[branch_num]
+                                   ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (./src/setupConf.ino
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.4 ^^Iconf_activated[
+                      i] = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.4 ^^Iconf_activated[i]
+                         = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.4 ^^Iconf_activated[i]
+                         = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.5 ^^Ibranch_conf[
+                   i].power = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.5 ^^Ibranch_conf[i]
+                     .power = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.5 ^^Ibranch_conf[i]
+                     .power = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 ^^Ibranch_conf[
+                   i].sensitivity = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 ^^Ibranch_conf[i]
+                     .sensitivity = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 ^^Ibranch_conf[i]
+                     .sensitivity = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.7 ^^Ibranch_conf[
+                   i].brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.7 ^^Ibranch_conf[i]
+                     .brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.7 ^^Ibranch_conf[i]
+                     .brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 ^^Ibranch_conf[
+                   i].inverted_mode = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 ^^Ibranch_conf[i]
+                     .inverted_mode = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 ^^Ibranch_conf[i]
+                     .inverted_mode = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.9 ^^Ibranch_conf[
+                   i].min_brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.9 ^^Ibranch_conf[i]
+                     .min_brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.9 ^^Ibranch_conf[i]
+                     .min_brightness = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 ^^Ibranch_conf[
+                    i].max_brightness = 255;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 ^^Ibranch_conf[i]
+                      .max_brightness = 255;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 ^^Ibranch_conf[i]
+                      .max_brightness = 255;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [14] (./src/mainLoopSetupConf.ino
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 branch_conf[
+                setup_branch_index].sensitivity = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 branch_conf[setup_branch_index]
+                                   .sensitivity = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.6 branch_conf[setup_branch_index]
+                                   .sensitivity = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 branch_conf[
+                setup_branch_index].power = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 branch_conf[setup_branch_index]
+                                   .power = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.8 branch_conf[setup_branch_index]
+                                   .power = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 branch_conf[
+                 setup_branch_index].brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 branch_conf[setup_branch_index]
+                                    .brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.10 branch_conf[setup_branch_index]
+                                    .brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.12 branch_conf[
+                 setup_branch_index].inverted_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.12 branch_conf[setup_branch_index]
+                                    .inverted_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.12 branch_conf[setup_branch_index]
+                                    .inverted_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.14 branch_conf[
+                 setup_branch_index].min_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.14 branch_conf[setup_branch_index]
+                                    .min_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.14 branch_conf[setup_branch_index]
+                                    .min_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.16 branch_conf[
+                 setup_branch_index].max_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.16 branch_conf[setup_branch_index]
+                                    .max_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.16 branch_conf[setup_branch_index]
+                                    .max_brightness = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.18 branch_conf[
+                 setup_branch_index].brightness_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.18 branch_conf[setup_branch_index]
+                                    .brightness_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.18 branch_conf[setup_branch_index]
+                                    .brightness_mode = \
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (4.20319pt too wide) in paragraph at lines 21--22
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
+ []
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.25     if (branch_conf[
+                         prv].inverted_mode == 1) {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.25     if (branch_conf[prv]
+                             .inverted_mode == 1) {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.25     if (branch_conf[prv]
+                             .inverted_mode == 1) {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.26         conf_activated[
+                            i] = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.26         conf_activated[i]
+                               = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.26         conf_activated[i]
+                               = 0;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.28         conf_activated[
+                            i] = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.28         conf_activated[i]
+                               = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\lst@thestyle ->\colorIndex 
+                            
+l.28         conf_activated[i]
+                               = 1;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [15]) [16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 355.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 355.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 355.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 355.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
 (rerunfilecheck)             Checksum: 825CA659A8295A064D2211F71422D128;395.
 
@@ -755,15 +1366,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 356.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 355.
  ) 
 Here is how much of TeX's memory you used:
- 14673 strings out of 480935
- 284237 string characters out of 5916714
- 633854 words of memory out of 5000000
- 31847 multiletter control sequences out of 15000+600000
- 535658 words of font info for 62 fonts, out of 8000000 for 9000
+ 14874 strings out of 480935
+ 287440 string characters out of 5916714
+ 800670 words of memory out of 5000000
+ 32019 multiletter control sequences out of 15000+600000
+ 535682 words of font info for 65 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 52i,10n,74p,1236b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,10n,97p,1236b,2059s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reportWeek3.pdf (14 pages).
+Output written on reportWeek3.pdf (17 pages).
