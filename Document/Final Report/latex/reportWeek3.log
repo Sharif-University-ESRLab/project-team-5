@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 13:37
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,7 +692,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 71.
 
-Overfull \hbox (2.60269pt too wide) in paragraph at lines 90--92
+Overfull \hbox (2.60269pt too wide) in paragraph at lines 92--94
 [][]\TU/XBNiloofar(0)/b/n/12 چالش اصلی اتصال تعداد زیادی دیود ساطع نور []\TU/lm
 roman10-regular(0)/m/n/12 LED[][][][][][][][][] \TU/XBNiloofar(0)/b/n/12 با نور
 های متغیر به برد برای شبیه‌سازی[]
@@ -701,51 +701,51 @@ roman10-regular(0)/m/n/12 LED[][][][][][][][][] \TU/XBNiloofar(0)/b/n/12 با ن
 [4]
 File: figs/BH1750FVI.jpeg Graphic file (type bmp)
 <figs/BH1750FVI.jpeg>
+ [5]
 File: figs/BH1750-Light-Sensor-Pinout.png Graphic file (type bmp)
 <figs/BH1750-Light-Sensor-Pinout.png>
- [5]
 File: figs/BH1750FVI-pin-config.png Graphic file (type bmp)
 <figs/BH1750FVI-pin-config.png>
 File: figs/ard-mega.jpeg Graphic file (type bmp)
 <figs/ard-mega.jpeg>
+ [6]
 File: figs/Pinout-Mega2560rev3-latest.png Graphic file (type bmp)
 <figs/Pinout-Mega2560rev3-latest.png>
- [6]
 File: figs/esp8266-esp-01s.jpeg Graphic file (type bmp)
 <figs/esp8266-esp-01s.jpeg>
+ [7]
 File: figs/ESP8266-Pinout.png Graphic file (type bmp)
 <figs/ESP8266-Pinout.png>
- [7]
 File: figs/ESP-01-pin-configuration-The-RESET-and-VCC-pins-of-the-module-are-co
 nnected-to-the-33-V.png Graphic file (type bmp)
 <figs/ESP-01-pin-configuration-The-RESET-and-VCC-pins-of-the-module-are-connect
 ed-to-the-33-V.png>
 File: figs/irf640.jpeg Graphic file (type bmp)
 <figs/irf640.jpeg>
+ [8]
 File: figs/irf-pinout.png Graphic file (type bmp)
 <figs/irf-pinout.png>
- [8]
 File: figs/schema.jpg Graphic file (type bmp)
 <figs/schema.jpg>
  [9]
 File: figs/schematics.png Graphic file (type bmp)
 <figs/schematics.png>
- [10]
+ [10] [11]
 File: figs/shcema-ma.png Graphic file (type bmp)
 <figs/shcema-ma.png>
- [11]
-Overfull \hbox (1.71484pt too wide) in paragraph at lines 335--337
+ [12]
+Overfull \hbox (1.71484pt too wide) in paragraph at lines 337--339
 [][]\TU/XBNiloofar(0)/b/n/12 تنظیم حداکثر و حداقل میزان روشنایی: کاربر می‌تواند
  با انتخاب عددی میان ۰ تا ۲۵۵(توسط[]
  []
 
-[12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
+[13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
+ [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 352.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 356.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
 (rerunfilecheck)             Checksum: 825CA659A8295A064D2211F71422D128;395.
 
@@ -755,15 +755,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 352.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 356.
  ) 
 Here is how much of TeX's memory you used:
- 14671 strings out of 480935
- 284214 string characters out of 5916714
- 634854 words of memory out of 5000000
- 31845 multiletter control sequences out of 15000+600000
+ 14673 strings out of 480935
+ 284237 string characters out of 5916714
+ 633854 words of memory out of 5000000
+ 31847 multiletter control sequences out of 15000+600000
  535658 words of font info for 62 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 52i,10n,74p,1236b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,10n,74p,1236b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reportWeek3.pdf (13 pages).
+Output written on reportWeek3.pdf (14 pages).
