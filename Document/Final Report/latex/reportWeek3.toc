@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}قابلیت‌های لوستر هوشمند}{4}{section.1}%
-\contentsline {section}{\numberline {2}محدودیت‌های اولیه لوستر هوشمند}{4}{section.2}%
-\contentsline {section}{\numberline {3}قطعات مورد استفاده}{5}{section.3}%
-\contentsline {section}{\numberline {4}طراحی مدار}{9}{section.4}%
-\contentsline {section}{\numberline {5}برنامه موبایل}{12}{section.5}%
-\contentsline {section}{\numberline {6}کد}{13}{section.6}%
+\contentsline {section}{\numberline {2}محدودیت‌های اولیه لوستر هوشمند}{5}{section.2}%
+\contentsline {section}{\numberline {3}قطعات مورد استفاده}{6}{section.3}%
+\contentsline {section}{\numberline {4}طراحی مدار}{11}{section.4}%
+\contentsline {section}{\numberline {5}برنامه موبایل}{14}{section.5}%
+\contentsline {section}{\numberline {6}توضیحات کد}{16}{section.6}%
