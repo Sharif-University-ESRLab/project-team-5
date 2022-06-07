@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 03:35
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  7 JUN 2022 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -593,6 +593,15 @@ LaTeX Warning: Label `fig:schema' multiply defined.
 
 LaTeX Warning: Label `fig:schema' multiply defined.
 
+
+LaTeX Warning: Label `fig:schema' multiply defined.
+
+
+LaTeX Warning: Label `fig:schema' multiply defined.
+
+
+LaTeX Warning: Label `fig:schema' multiply defined.
+
 )
 \openout1 = `reportWeek3.aux'.
 
@@ -688,20 +697,28 @@ File: figs/ard-mega.jpeg Graphic file (type bmp)
 File: figs/Pinout-Mega2560rev3-latest.png Graphic file (type bmp)
 <figs/Pinout-Mega2560rev3-latest.png>
  [4]
-Overfull \hbox (1.71484pt too wide) in paragraph at lines 165--167
+File: figs/esp8266-esp-01s.jpeg Graphic file (type bmp)
+<figs/esp8266-esp-01s.jpeg>
+File: figs/ESP8266-Pinout.png Graphic file (type bmp)
+<figs/ESP8266-Pinout.png>
+ [5]
+File: figs/BH1750FVI-pin-config.png Graphic file (type bmp)
+<figs/BH1750FVI-pin-config.png>
+
+Overfull \hbox (1.71484pt too wide) in paragraph at lines 198--200
 [][]\TU/XBNiloofar(0)/m/n/12 تنظیم حداکثر و حداقل میزان روشنایی: کاربر می‌تواند
  با انتخاب عددی میان ۰ تا ۲۵۵(توسط[]
  []
 
-[5] [6]
+[6] [7]
 File: figs/shcema-ma.png Graphic file (type bmp)
 <figs/shcema-ma.png>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
 (rerunfilecheck)             Checksum: 8F347B77002B121743E2E17972626325;229.
 
@@ -711,15 +728,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 14611 strings out of 480935
- 282675 string characters out of 5916714
+ 14627 strings out of 480935
+ 283026 string characters out of 5916714
  632854 words of memory out of 5000000
- 31796 multiletter control sequences out of 15000+600000
+ 31810 multiletter control sequences out of 15000+600000
  535658 words of font info for 62 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  52i,8n,74p,1236b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reportWeek3.pdf (7 pages).
+Output written on reportWeek3.pdf (8 pages).
