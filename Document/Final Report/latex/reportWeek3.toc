@@ -2,5 +2,6 @@
 \contentsline {section}{\numberline {2}محدودیت‌های اولیه لوستر هوشمند}{5}{section.2}%
 \contentsline {section}{\numberline {3}قطعات مورد استفاده}{6}{section.3}%
 \contentsline {section}{\numberline {4}طراحی مدار}{11}{section.4}%
-\contentsline {section}{\numberline {5}برنامه موبایل}{14}{section.5}%
-\contentsline {section}{\numberline {6}توضیحات کد}{16}{section.6}%
+\contentsline {section}{\numberline {5}\lr {RemoteXY}}{14}{section.5}%
+\contentsline {section}{\numberline {6}برنامه موبایل}{16}{section.6}%
+\contentsline {section}{\numberline {7}توضیحات کد}{18}{section.7}%

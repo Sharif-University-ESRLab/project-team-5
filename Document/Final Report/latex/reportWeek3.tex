@@ -310,6 +310,61 @@ $255$
 		پین \lr{VCC} در ماژول \lr{ESP} را به پین \lr{+3V} آردویینو متصل می‌کنیم.
 	\end{enumerate}
 		\end{enumerate}
+	در نهایت می‌توان مدار کلی را در شکل زیر مشاهده کرد:
+		 \begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.1]{figs/finalcircuit001.jpeg}
+		\caption{
+			مدار نهایی
+		}
+		\label{fig:schema1}
+	\end{figure}
+		\newpage
+	\section{\lr{RemoteXY}}
+	 \lr{RemoteXY}
+	 یک ابزار کنترلی برای کنترل مدارها با برد های اصلی آردوینو از طریق موبایل با کامپیوتر می‌باشد. به طور خلاصه در این ابزار ابتدا یک رابط کاربری به صورت گرافیکی طراحی می‌شود، سپس تعیین می‌گردد که این رابط برای چه کنترل چه بردی طراحی شده و با چه ماژولی به برد متصل می‌گردد. (از طریق ماژول های بلوتوث، وای‌فای یا \lr{OTG}) در ادامه پارامتر‌های کلی مدار شامل نحوه اتصال ماژول ارتباطی به برد، سرعت پورت‌های سریال، نام کاربری و پسورد مربوط به نقطه اتصال وای‌فای و… تعیین می‌شوند. در نهایت این ابزار یک فایل \lr{ project.ino } به ما می‌دهد که حاوی \lr{strcut} \lr{RemoteXY} و پارامتر‌های مورد نیاز می‌باشد. سپس برنامه‌ی اصلی در توابع loop و setup نوشته می‌شود که توضیحات آن در بخش توضیحات کد قابل مشاهده است. دقت کنید که قبل از کامپایل کردن کد در \lr{Arduino IDE} ابتدا می‌بایست کتابخانه \lr{RemoteXY Library} را از  
+	 \href{https://remotexy.com/en/library/}{این لینک}
+	 دانلود کرده و به \lr{IDE} اضافه کنیم.
+	 \begin{figure}[H]
+	 	\centering
+	 	\includegraphics[scale=0.3]{figs/initial-conf.png}
+	 	\caption{
+	 	تصاویر مربوط به تنظیمات اولیه
+	 	}
+	 	\label{fig:schema1}
+	 \end{figure}
+ 
+ 	 \begin{figure}[H]
+ 	\centering
+ 	\includegraphics[scale=0.2]{figs/initial-conf-nama.png}
+ 	\caption{
+ 		نمای کلی از محیط طراحی رابط کاربری در برنامه تحت وب \lr{RemoteXY}
+ 	}
+ 	\label{fig:schema1}
+ \end{figure}
+
+برای اجرای مدار:
+\begin {enumerate}
+\item
+دو شاخه \lr{LED} و برد آردوینو را به برق متصل می‌کنیم.
+\item
+اپلیکیشن موبایل \lr{RemoteXY} را دانلود کرده و نصب می‌کنیم. سپس از منوی سمت چپ گزینه  \lr{WiFi point} را انتخاب کرده و نقطه  \lr{ smart\_chandelier} را انتخاب می‌کنیم. (دقت کنید که پورت اتصال روی 6377 تنظیم شده باشد.)
+\item
+سپس کلمه عبور 12345678 را وارد کرده تا اتصال از طریق ماژول وای‌فای برقرار گردد.
+ 	 \begin{figure}[H]
+	\centering
+	\includegraphics[scale=0.3]{figs/item3.png}
+	\caption{
+		نمای کلی از محیط طراحی رابط کاربری در برنامه تحت وب \lr{RemoteXY}
+	}
+	\label{fig:schema1}
+\end{figure}
+\item
+بعد از اتصال به مدار، رابط کاربری طراحی شده پدیدار می‌گردد و می‌توان روشنایی شاخه‌ها را با آن کنترل کرد.
+
+\end {enumerate}
+
+	
 	
 	\newpage
 \section{برنامه موبایل}

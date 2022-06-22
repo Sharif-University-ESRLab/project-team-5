@@ -78,6 +78,26 @@
 	و مقدار
 	\lr{conf.sensitivity}
 	تنظیم می‌شود.
+	
+	
+	ابتدا مقدار روشنایی اولیه هر کدام از \lr{LED} ها را برابر صفر تنظیم می‌کنیم و در ادامه این حلقه مقدار اصلی آن‌ها مشخص می‌شود.
+	\begin{latin}
+		\lstinputlisting[style={verilog-style}]{src/brightnessSetup.ino}
+	\end{latin}
+	
+	در کد زیر نیز روشن بودن یا نبودن هر شاخه را مشخص می‌کنیم.
+	\begin{latin}
+		\lstinputlisting[style={verilog-style}]{src/branchPower.ino}
+	\end{latin}
+	در تکه کد زیر، روشنایی هر شاخه با توجه به تنظیمات خودکار (\lr{Adaptive}) و با توجه به سنسور تنظیم می‌شود.
+	\begin{latin}
+		\lstinputlisting[style={verilog-style}]{src/adaptiveS.ino}
+	\end{latin}
+در تکه کد زیر، روشنایی هر شاخه در حالت تنظیمات ثابت تنظیم می‌شود.
+	\begin{latin}
+	\lstinputlisting[style={verilog-style}]{src/staticS.ino}
+\end{latin}
+
 	\item
 	مقدار 
 	\lr{conf.inverted-mode}
@@ -88,6 +108,9 @@
 	برای اینکه فرمت خروجی پویا باشد از یک پارامتر شمارنده به اسم
 	\lr{nxt-branch-counter}
 	بهره بردیم و این مقدار هر سری در بین بازه‌ای معقول قرار می‌گیرد و به شاخه اول اضافه می‌شود و از شاخه دوم کم می‌شود. به این ترتیب همیشه جمع اندازه خروجی این دو شاخه متوالی برابر با مقدار خروجی‌ای‌است که به ازای شاخه اولی تنظیم شده‌بود.
+		\begin{latin}
+		\lstinputlisting[style={verilog-style}]{src/inverted.ino}
+	\end{latin}
 \end{itemize}
 
 برای اطلاعات بیشتر از بخش‌های کد می‌توانید سورس کامل را در پیوست های پروژه به همراه مستندات کامل مشاهده نمایید.
