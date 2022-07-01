@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  22 JUN 2022 15:03
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.9.29)  2 JUL 2022 03:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -590,6 +590,15 @@ LaTeX Warning: Label `fig:schema1' multiply defined.
 
 LaTeX Warning: Label `fig:schema1' multiply defined.
 
+
+LaTeX Warning: Label `fig:schema13' multiply defined.
+
+
+LaTeX Warning: Label `fig:schema13' multiply defined.
+
+
+LaTeX Warning: Label `fig:schema13' multiply defined.
+
 )
 \openout1 = `reportWeek3.aux'.
 
@@ -724,7 +733,7 @@ File: figs/item3.png Graphic file (type bmp)
 File: figs/shcema-ma.png Graphic file (type bmp)
 <figs/shcema-ma.png>
  [16]
-Overfull \hbox (1.71484pt too wide) in paragraph at lines 392--394
+Overfull \hbox (1.71484pt too wide) in paragraph at lines 391--393
 [][]\TU/XBNiloofar(0)/b/n/12 تنظیم حداکثر و حداقل میزان روشنایی: کاربر می‌تواند
  با انتخاب عددی میان ۰ تا ۲۵۵(توسط[]
  []
@@ -1709,17 +1718,24 @@ Overfull \hbox (53.91335pt too wide) in paragraph at lines 24--25
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
-)) [23]
+)) [23] [24]
+File: figs/nama-roberoo.png Graphic file (type bmp)
+<figs/nama-roberoo.png>
+File: figs/nama-bala.png Graphic file (type bmp)
+<figs/nama-bala.png>
+File: figs/nama-jolo.png Graphic file (type bmp)
+<figs/nama-jolo.png>
+ [25] [26]
 File: figs/final.png Graphic file (type bmp)
 <figs/final.png>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 422.
- [24]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 422.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 484.
+ [27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 484.
  (./reportWeek3.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 422.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 422.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 484.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 484.
 Package rerunfilecheck Info: File `reportWeek3.out' has not changed.
-(rerunfilecheck)             Checksum: 13BFACDF09982DF91B03DD56CEDF4A7A;453.
+(rerunfilecheck)             Checksum: 564AB9D1BC91D42FD71CCC933655424F;518.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1727,15 +1743,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 422.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 484.
  ) 
 Here is how much of TeX's memory you used:
- 14976 strings out of 480935
- 289479 string characters out of 5916714
- 806244 words of memory out of 5000000
- 32102 multiletter control sequences out of 15000+600000
+ 14994 strings out of 480935
+ 289842 string characters out of 5916714
+ 806260 words of memory out of 5000000
+ 32117 multiletter control sequences out of 15000+600000
  535698 words of font info for 67 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  52i,10n,97p,1236b,2053s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on reportWeek3.pdf (24 pages).
+Output written on reportWeek3.pdf (27 pages).
